@@ -1,4 +1,4 @@
-
+![Project Banner](walmartecomm.jpg)
 
 # 📦 Walmart Holiday Sales Analysis Pipeline
 
@@ -92,41 +92,12 @@ This project builds a **data pipeline** to analyze supply and demand around holi
 - **Python 3.8+**
 - **Libraries:**
   - `pandas`
-  - `psycopg2` or `SQLAlchemy` (optional, for PostgreSQL connection)
-
----
-
-## 🚀 Execution
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_user/your_repo.git
-   cd your_repo
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install pandas
-   ```
-
-3. Run the main script:
-
-   ```bash
-   python main.py
-   ```
-
-4. Check the generated files:
-
-   - `clean_data.csv`
-   - `agg_data.csv`
 
 ---
 
 ## 👤 Author
 
-**Ángel Fabián Gómez Estupiñan**
+[**DataCamp**](https://app.datacamp.com/)
 
 ---
 
