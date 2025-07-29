@@ -25,7 +25,7 @@ This project builds a **data pipeline** to analyze supply and demand around holi
 
 ## ⚙️ Data Structure
 
-``** table:**
+** table:**
 
 | Column         | Description                |
 | -------------- | -------------------------- |
@@ -34,7 +34,7 @@ This project builds a **data pipeline** to analyze supply and demand around holi
 | `Date`         | Sales week                 |
 | `Weekly_Sales` | Weekly sales for the store |
 
-``** file:**
+** file:**
 
 | Column         | Description                                          |
 | -------------- | ---------------------------------------------------- |
