@@ -2,6 +2,11 @@
 
 # 📦 Walmart Holiday Sales Analysis Pipeline
 
+Explanatory videos:
+
+[English](https://youtu.be/LPBbVrpKryI)
+[Spanish](https://youtu.be/kUveQUR-WvU)
+
 ## 📝 Description
 
 Walmart is the largest retail chain in the US, with a rapidly growing e-commerce business that reached \$80 billion in sales by the end of 2022 (13% of total sales). One key factor influencing sales is public holidays such as the Super Bowl, Labor Day, Thanksgiving, and Christmas.
